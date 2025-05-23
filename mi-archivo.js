@@ -1,2 +1,2 @@
-// Este es un comentario
-alert("Hola mundo");
+alert("Hola mundo_editado");
+console.log("Cambios en el archivo");
